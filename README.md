@@ -1,3 +1,2 @@
 # cql_horg
-测试
-1212212121
+作业路径：cql_horg/Game/game.py
