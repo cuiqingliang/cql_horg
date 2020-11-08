@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d935d58-eaf1-4ded-a5db-bfe8d0eae414" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_po1/testcase/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_po1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/addcontact.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_po1/page/addcontact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_po1/page/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/conttact.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_po1/page/conttact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/deletecontact.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_po1/page/deletecontact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_po1/page/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_po1/page/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/test_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_po1/testcase/test_case.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k0XFjD4SZagDS25A1YutIMznEj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_case.Test_Con.test_add_con">
+    <configuration name="pytest for test_case.Test_Con.test_add_con" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="test_po" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_case.Test_Con.test_add_con&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in bin" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="test_po" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\admin\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in bin" />
+      <item itemvalue="Python tests.pytest for test_case.Test_Con.test_add_con" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_case.Test_Con.test_add_con" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d935d58-eaf1-4ded-a5db-bfe8d0eae414" name="Default Changelist" comment="" />
+      <created>1604838380714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604838380714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604838408219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604838408219" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604838436750">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604838436750" />
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1604839200587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604839200587" />
+    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1604839200587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604839200587" />
+    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1604839200587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604839200587" />
+    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1604839200587">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604839200587" />
+  </component>
+</project>

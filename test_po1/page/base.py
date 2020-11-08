@@ -5,7 +5,7 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-class Base:
+class Base():
     _urlss=''
     def __init__(self,driver: WebDriver =None):
         if driver == None:

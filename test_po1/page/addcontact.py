@@ -1,9 +1,16 @@
 from selenium.webdriver.common.by import By
-from test_po.page.base import Base
-from test_po.page.deletecontact import DeleContact
+
+from test_po1.page.base import Base
+# from test_po1.page.conttact import Contact
 
 
-class Contact(Base):
+class AddContact(Base):
+
+    def addcon(self,name,account,phonenum):
+        self.find(By.ID,'username').send_keys(name)
+        self.find(By.ID,'memberAdd_acctid').send_keys(account)
+        self.find(By.ID,'memberAdd_phone').send_keys(phonenum)
+        self.find(By.CSS_SELECTOR,'.qui_btn ww_btn js_btn_save').click()
     def getcontact(self,name):
         locator=(By.CSS_SELECTOR,'.ww_checkbox')
         self.wait_click(locator)
@@ -24,5 +31,3 @@ class Contact(Base):
             else:
                 self.find(By.CSS_SELECTOR,'.ww_commonImg ww_commonImg_PageNavArrowRightNormal').click()
         return  ele_lis
-    def delete_contact(self):
-        return DeleContact(self.driver)
