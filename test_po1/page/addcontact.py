@@ -10,7 +10,7 @@ class AddContact(Base):
         self.find(By.ID,'username').send_keys(name)
         self.find(By.ID,'memberAdd_acctid').send_keys(account)
         self.find(By.ID,'memberAdd_phone').send_keys(phonenum)
-        self.find(By.CSS_SELECTOR,'.qui_btn ww_btn js_btn_save').click()
+        self.find(By.CSS_SELECTOR,'.js_btn_save').click()
     def getcontact(self,name):
         locator=(By.CSS_SELECTOR,'.ww_checkbox')
         self.wait_click(locator)
