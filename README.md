@@ -3,4 +3,5 @@
 作业2路径：cql_horg/Object_lianxi <br>
 作业3路径：cql_horg/test_pytest <br>
 企业微信路径：cql_horg/test_selenium<br>
-企业微信路径：cql_horg/test_spo1
+企业微信路径：cql_horg/test_spo1<br>
+app企业微信路径：cql_horg/test_app
