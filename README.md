@@ -5,4 +5,5 @@
 企业微信路径：cql_horg/test_selenium<br>
 企业微信路径：cql_horg/test_spo1<br>
 app企业微信路径：cql_horg/test_app<br>
-app企业微信PO路径：cql_horg/test_app_po
+app企业微信PO路径：cql_horg/test_app_po<br>
+测试框架企业微信app添加联系人cql_horg/framework/framework
