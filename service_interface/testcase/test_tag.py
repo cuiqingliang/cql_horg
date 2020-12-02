@@ -40,10 +40,9 @@ class TestTag():
             s = self.api.search_list()
             print(self.api.exchange(s.json()))
             print(r)
-            assert r == 0
         except:
-            print(r)
             assert r == 40071
+
     ## 新增为空验证
     @pytest.mark.parametrize('group_name,tag_name', [
         ["lagou1", [{"name": ""}]],
@@ -51,12 +50,8 @@ class TestTag():
     def test_add_null(self,group_name,tag_name):
         try:
             r = self.api.add_tag(group_name, tag_name)
-            s = self.api.search_list()
-            print(self.api.exchange(s.json()))
             print(r)
-            assert r == 0
         except:
-            print(r)
             assert r == 41018
 
     ## 新增长度验证
@@ -66,12 +61,8 @@ class TestTag():
     def test_add_lenth(self, group_name, tag_name):
         try:
             r = self.api.add_tag(group_name, tag_name)
-            s = self.api.search_list()
-            print(self.api.exchange(s.json()))
             print(r)
-            assert r == 0
         except:
-            print(r)
             assert r == 40058
 
 
